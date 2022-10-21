@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "AutoLayoutBuilder",
+        "repositoryURL": "https://github.com/cjnevin/AutoLayoutBuilder",
+        "state": {
+          "branch": null,
+          "revision": "74b16c931bd35c1f3f4776372931f606d131c3e2",
+          "version": "1.0.9"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
