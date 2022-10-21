@@ -180,8 +180,8 @@ public class ScrollableStackView: UIView, StackViewProtocol {
         return self
     }
 
-    @discardableResult public func replaceStackedViews(@StackViewBuilder _ views: () -> [StackableView]) -> Self {
-        stackView.replaceStackedViews(views)
+    @discardableResult public func stackedViews(@StackViewBuilder _ views: () -> [StackableView]) -> Self {
+        stackView.stackedViews(views)
         return self
     }
 
